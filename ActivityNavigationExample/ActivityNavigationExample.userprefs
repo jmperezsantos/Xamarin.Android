@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{7FBBB5BE-D31C-46E6-A98F-4AAEABC0CDD1}|Default">
+  <MonoDevelop.Ide.ItemProperties.ActivityNavigationExample AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.AVD_for_4_65_720p_Galaxy_Nexus" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ActivityNavigationExample/Activities/MainActivity.cs">
+    <Files>
+      <File FileName="ActivityNavigationExample/Activities/MainActivity.cs" Line="26" Column="17" />
+      <File FileName="ActivityNavigationExample/Activities/SecondActivity.cs" Line="28" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1159BAB9-1583-437F-9254-3BB88B761D00}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstApp/MainActivity.cs">
+    <Files>
+      <File FileName="MyFirstApp/MainActivity.cs" Line="28" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MyFirstApp AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.AVD_for_Nexus_6" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
