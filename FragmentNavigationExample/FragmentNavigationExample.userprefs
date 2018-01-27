@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{04D10674-E31A-4A83-AE06-7BA93577D2F4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FragmentNavigationExample/Fragments/FirstFragment.cs">
+    <Files>
+      <File FileName="FragmentNavigationExample/Fragments/FirstFragment.cs" Line="78" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FragmentNavigationExample AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.AVD_for_4_65_720p_Galaxy_Nexus" />
+</Properties>

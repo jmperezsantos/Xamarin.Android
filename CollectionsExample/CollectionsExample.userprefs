@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2BDE9E3F-6729-4BAD-9A3A-028721656BE7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CollectionsExample/MainActivity.cs">
+    <Files>
+      <File FileName="CollectionsExample/MainActivity.cs" Line="34" Column="50" />
+      <File FileName="CollectionsExample/CancionModel.cs" Line="17" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CollectionsExample AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.AVD_for_4_65_720p_Galaxy_Nexus" />
+</Properties>
