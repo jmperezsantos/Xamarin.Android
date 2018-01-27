@@ -1,8 +1,7 @@
 ﻿<Properties StartupConfiguration="{2BDE9E3F-6729-4BAD-9A3A-028721656BE7}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CollectionsExample/MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CollectionsExample/GridViewActivity.cs">
     <Files>
-      <File FileName="CollectionsExample/MainActivity.cs" Line="34" Column="50" />
-      <File FileName="CollectionsExample/CancionModel.cs" Line="17" Column="8" />
+      <File FileName="CollectionsExample/GridViewActivity.cs" Line="30" Column="55" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

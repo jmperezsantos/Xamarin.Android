@@ -11,13 +11,15 @@ public final class R {
     public static final class attr {
     }
     public static final class id {
-        public static final int lvLista=0x7f050002;
-        public static final int tvSubtitle=0x7f050001;
+        public static final int gvCuadricula=0x7f050001;
+        public static final int lvLista=0x7f050003;
+        public static final int tvSubtitle=0x7f050002;
         public static final int tvTitle=0x7f050000;
     }
     public static final class layout {
-        public static final int itemlayout=0x7f030000;
-        public static final int main=0x7f030001;
+        public static final int gridviewlayout=0x7f030000;
+        public static final int itemlayout=0x7f030001;
+        public static final int main=0x7f030002;
     }
     public static final class mipmap {
         public static final int icon=0x7f020000;

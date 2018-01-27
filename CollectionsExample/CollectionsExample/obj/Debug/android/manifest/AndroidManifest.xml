@@ -5,7 +5,8 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:allowBackup="true" android:icon="@mipmap/icon" android:label="@string/app_name" android:name="android.app.Application" android:debuggable="true">
-    <activity android:icon="@mipmap/icon" android:label="CollectionsExample" android:name="md571be3812c1d54b5e13ce0fe4dad58c7b.MainActivity">
+    <activity android:icon="@mipmap/icon" android:label="CollectionsExample" android:name="md571be3812c1d54b5e13ce0fe4dad58c7b.MainActivity" />
+    <activity android:label="GridViewActivity" android:name="md571be3812c1d54b5e13ce0fe4dad58c7b.GridViewActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

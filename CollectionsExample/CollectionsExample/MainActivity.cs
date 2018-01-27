@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace CollectionsExample
 {
-    [Activity(Label = "CollectionsExample", MainLauncher = true, Icon = "@mipmap/icon")]
+    [Activity(Label = "CollectionsExample", Icon = "@mipmap/icon")]
     public class MainActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)

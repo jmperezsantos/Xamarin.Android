@@ -44,11 +44,14 @@ namespace CollectionsExample
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050002
-			public const int lvLista = 2131034114;
-			
 			// aapt resource value: 0x7f050001
-			public const int tvSubtitle = 2131034113;
+			public const int gvCuadricula = 2131034113;
+			
+			// aapt resource value: 0x7f050003
+			public const int lvLista = 2131034115;
+			
+			// aapt resource value: 0x7f050002
+			public const int tvSubtitle = 2131034114;
 			
 			// aapt resource value: 0x7f050000
 			public const int tvTitle = 2131034112;
@@ -67,10 +70,13 @@ namespace CollectionsExample
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int ItemLayout = 2130903040;
+			public const int GridViewLayout = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int Main = 2130903041;
+			public const int ItemLayout = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int Main = 2130903042;
 			
 			static Layout()
 			{
